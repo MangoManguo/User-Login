@@ -1,0 +1,60 @@
+html {
+  background: url(userlogin-img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  width: 600px;
+  background: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  margin: 40px auto;
+  border: 2px solid purple;
+  border-radius: 25px;
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  margin: 3px 5px;
+}
+
+hr {
+  width: 300px;
+}
+
+div {
+  background-color: purple;
+  color: white;
+  padding: 30px;
+}
+
+span {
+  font-weight: bold;
+}
+
+.question {
+  font-family: Georgia;
+  font-style: italic;
+}
+
+button {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  padding: 5px 15px;
+  border-left: 2px solid white;
+  border-top: 2px solid lightgrey;
+  border-right: 2px solid grey;
+  border-bottom: 2px solid grey;
+}
+
+.question:hover {
+  color: yellow;
+  text-decoration: underline;
+  transition-duration: 2.5s;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
