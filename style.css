@@ -43,10 +43,7 @@ button {
   color: white;
   font-size: 20px;
   padding: 5px 15px;
-  border-left: 2px solid white;
-  border-top: 2px solid lightgrey;
-  border-right: 2px solid grey;
-  border-bottom: 2px solid grey;
+  border-color: white;
 }
 
 .question:hover {
